@@ -5,7 +5,7 @@ I'm a passionate and motivated undergraduate pursuing a **Bachelor of Informatio
 <!--
 **sachini-anjalee/sachini-anjalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:!-->
 
 - 🎓  Undegraduate at University of Colombo School of Computing
 - 🌱  Currently following the Bachelor of Information Technology (BIT) degree program  
