@@ -9,4 +9,4 @@ Here are some ideas to get you started:!-->
 
 - 🎓  Undegraduate at University of Colombo School of Computing
 - 🌱  Currently following the Bachelor of Information Technology (BIT) degree program  
-- 📫 How to reach me: https://www.linkedin.com/in/sachinianjalee/
+- 📫 How to reach me: sachinianjalee07@gmail.com
